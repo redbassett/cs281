@@ -1,4 +1,0 @@
-class CRCDataLinkLayer extends DataLinkLayer {
-	public CRCDataLinkLayer (PhysicalLayer physicallayer) {
-		
-}
